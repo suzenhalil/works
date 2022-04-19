@@ -127,6 +127,21 @@ namespace works
 
             //girilen bi tam sayının kaç basamaklı olduğunu yazdır.
 
+            //Console.Write("Bir sayi giriniz: ");
+            //int sayi = Convert.ToInt32(Console.ReadLine());
+            //int sayac = 0;
+            //int sonuc;
+
+            //while (sayi>0)
+
+            //{
+            //    sayi /= 10;
+            //    sayac++;
+
+            //}
+            //Console.WriteLine("Girdiginiz sayi " + sayac + " basamaklıdır.");
+
+
 
             #endregion
         }
