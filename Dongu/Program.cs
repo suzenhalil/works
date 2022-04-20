@@ -71,12 +71,14 @@ namespace Dongu
 
 
             #endregion
+
             #region Örnek 1
 
             //1 ile 10 arasındaki çift sayıları yazdır mod kullanmadan
 
 
             #endregion
+
             #region Örnek 2
 
             //1 ile 10 arasındak tek sayıları tersten yazdır
@@ -87,6 +89,7 @@ namespace Dongu
             //    }
 
             #endregion
+
             #region Örnek 3
 
             //ayın ilk gün pazartesi
@@ -96,9 +99,41 @@ namespace Dongu
             //{
             //    Console.WriteLine(i);
             //}
+            //for (int i = 0; i < 30; i++)
+            //{
+            //    if (i % 7 == 0)
+            //        Console.WriteLine(i);
+
+            //}
 
             #endregion
 
+            #region Örnek 4
+
+            //for (char a = 'A'; a <= 'Z'; a++)
+            //{
+            //    Console.WriteLine(a + "-" + Convert.ToInt32(a));
+            //}
+
+            #endregion
+
+            #region Örnek 5
+
+            //for (int i = 2010 ; i <= DateTime.Now.Year; i++)
+            //{
+
+            //    if (i == 2020 || i == 2021)
+
+            //    {
+            //        continue;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
+
+            #endregion
 
 
         }
