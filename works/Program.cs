@@ -20,25 +20,25 @@ namespace works
             //double Tutar;
             //Console.WriteLine("Miktarı Giriniz.");
             //Adet = Convert.ToInt32(Console.ReadLine());
-            //if ( Adet < 20 )
+            //if (Adet < 20)
             //{
             //    Tutar = (Adet * 5) * 0.95;
             //    Console.WriteLine("Ödemeniz gereken miktar: " + Tutar);
 
             //}
-            //else if ( Adet >= 20 && Adet <50 )
+            //else if (Adet >= 20 && Adet < 50)
             //{
             //    Tutar = (Adet * 5) * 0.9;
             //    Console.WriteLine("Ödemeniz gereken miktar: " + Tutar);
             //}
             //else if (Adet >= 50 && Adet < 100)
             //{
-            //    Tutar = (Adet * 5) * 0.85 ;
+            //    Tutar = (Adet * 5) * 0.85;
             //    Console.WriteLine("Ödemeniz gereken miktar: " + Tutar);
             //}
-            //else if ( Adet >= 100)
+            //else if (Adet >= 100)
             //{
-            //    Tutar = (Adet * 5) * 0.75 ;
+            //    Tutar = (Adet * 5) * 0.75;
             //    Console.WriteLine("Ödemeniz gereken miktar: " + Tutar);
             //}
 
@@ -132,7 +132,7 @@ namespace works
             //int sayac = 0;
             //int sonuc;
 
-            //while (sayi>0)
+            //while (sayi > 0)
 
             //{
             //    sayi /= 10;
