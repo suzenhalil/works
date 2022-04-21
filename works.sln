@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "works", "works\works.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ders5", "ders5\ders5.csproj", "{DE4D9738-C3C3-4A3E-99BF-0891122B9AB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch Case", "Switch Case\Switch Case.csproj", "{99561D80-AA27-4F0B-8C05-5B7BC87381C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch Case", "Switch Case\Switch Case.csproj", "{99561D80-AA27-4F0B-8C05-5B7BC87381C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dongu", "Dongu\Dongu.csproj", "{89B085B1-C4C4-43A1-BEC2-5892F61E9298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dongu", "Dongu\Dongu.csproj", "{89B085B1-C4C4-43A1-BEC2-5892F61E9298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizi", "Dizi\Dizi.csproj", "{70D8BF22-984C-4B1B-9652-654161EDF3A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{89B085B1-C4C4-43A1-BEC2-5892F61E9298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B085B1-C4C4-43A1-BEC2-5892F61E9298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B085B1-C4C4-43A1-BEC2-5892F61E9298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D8BF22-984C-4B1B-9652-654161EDF3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D8BF22-984C-4B1B-9652-654161EDF3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D8BF22-984C-4B1B-9652-654161EDF3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D8BF22-984C-4B1B-9652-654161EDF3A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

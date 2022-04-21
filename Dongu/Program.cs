@@ -135,6 +135,29 @@ namespace Dongu
 
             #endregion
 
+            #region Örnek 6
+
+            //1-100 3 ve 4 ün
+
+            //for (int i = 0; i < 100; i++)
+            //{
+            //    if (i % 12 != 0)
+            //        continue;
+            //    else
+            //        Console.WriteLine(i);
+
+                
+            //}
+
+            for (int i = 0; i < 10; i++)
+            {
+                if (i == 3)
+                    break;
+
+            }
+
+            #endregion
+
 
         }
     }
